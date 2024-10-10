@@ -44,7 +44,6 @@ enum IssueStatus {
     TODO
     IN_PROGRESS
     DONE
-    CANCELLED
 }
 
 model Issue {
